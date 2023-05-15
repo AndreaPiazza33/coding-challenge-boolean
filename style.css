@@ -1,0 +1,73 @@
+/*SELETTORE{
+
+}*/
+
+  body{
+    background-image: url(background.jpg);
+    background-size: 1525px;  
+   }
+  div{
+  background-color: rgba(00,00,00, 0.60); 
+  background-position: center;
+  border-radius: 15px;
+  margin-top: 20px;
+  margin-bottom: 210px;
+  margin-left: 275px;
+  margin-right: 275px;
+  }
+  header{
+    text-align: center;
+    line-height: 5px;
+  }
+  .logo{
+    width: 200px;
+    margin-top: 75px;
+  }
+  h1{
+    color: lime;
+  }
+  nav{
+    text-align: center;
+    background-color:lime;
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+  .option{
+    margin: 5px;
+  }
+  main{
+    color: white;
+    margin-left: 70px;
+    line-height: 2px;
+  }
+  hr{
+  margin-bottom: 25px;
+  }
+  .name-option{
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .ycharge{
+    background-color: rgb(222, 204, 7);
+    height: 25px;
+    margin-right: 600px;
+    border-radius: 5px;
+    border-color: rgb(222, 204, 7);
+  }
+  .gcharge{
+    background-color:rgb(29, 232, 29);
+    height: 25px;
+    margin-right: 350px;
+    border-radius: 5px;
+    border-color: rgb(29, 232, 29);
+  }
+  .rcharge{
+    background-color: rgb(252, 15, 15);
+    height: 25px;
+    margin-right: 750px;
+    border-radius: 5px;
+    border-color: rgb(252, 15, 15);
+  }
+  #emptybox{
+  height: 70px;
+  }
